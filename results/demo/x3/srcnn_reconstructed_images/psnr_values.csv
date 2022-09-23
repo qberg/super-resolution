@@ -1,0 +1,2 @@
+,b1_blur,u1_blur,b3_blur,u2_blur,u3_blur,d2_blur
+PSNR,tensor(53.9037),tensor(55.4175),tensor(55.8195),tensor(54.9247),tensor(54.8951),tensor(55.3249)

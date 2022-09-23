@@ -1,0 +1,2 @@
+,flowers,coastguard,ppt3,monarch,comic,man,baboon,zebra,pepper,foreman,face,lenna,bridge,barbara,woman_GT,bird_GT,baby_GT,butterfly_GT,head_GT
+PSNR,tensor(33.7212),tensor(33.8694),tensor(29.2080),tensor(36.6705),tensor(29.2402),tensor(29.6536),tensor(26.7760),tensor(32.4662),tensor(36.6262),tensor(35.9376),tensor(31.8786),tensor(38.9310),tensor(30.6538),tensor(31.3083),tensor(35.0697),tensor(34.0265),tensor(38.0419),tensor(30.8546),tensor(31.8664)
